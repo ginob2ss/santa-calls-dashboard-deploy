@@ -1,4 +1,5 @@
-"use client";
+"use client"; // dashboard view
+
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
